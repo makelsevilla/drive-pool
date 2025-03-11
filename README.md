@@ -10,3 +10,8 @@ The main feature of this project will be management of cloud files from differen
 - Postgresql
 - NextJS
 - Material UI (MUI) component library
+
+## Laravel Library
+
+- Laravel Sanctum  
+For Authentication. I might upgrade this to Laravel Passport in the future.
